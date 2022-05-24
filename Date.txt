@@ -1,3 +1,4 @@
 class Date{
 Date(int y, int m, int d);
+void show();
 }
